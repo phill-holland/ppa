@@ -1,0 +1,15 @@
+Package: cplusplus-core
+Version: 0.1.1
+Architecture: amd64
+Maintainer: Phill Holland
+Installed-Size: 4667
+Depends: Threads, OpenSSL, odbc, uuid, fmt
+Filename: ./cplusplus-core-0.1.1-Linux.deb
+Size: 1217000
+MD5sum: ec8f1bc5ec79a38b4c75914df110c360
+SHA1: 0b290fc834e518ec0e95e696d539298fd64394d3
+SHA256: 3db73e35d69f2ba63a6fc97b108aad8c9099cfb1ebefb111f58c6750c6a727f7
+Section: devel
+Priority: optional
+Description: cplusplus-core built using CMake
+
