@@ -1,1 +1,1 @@
-deb [signed-by=/etc/apt/trusted.gpg.d/my_ppa.gpg] https://github.com/phill-holland/ppa ./
+deb [signed-by=/etc/apt/trusted.gpg.d/my_ppa.gpg] https://phill-holland.github.io/ppa ./
